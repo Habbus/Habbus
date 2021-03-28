@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Habbus
+- :closed_book: In August 2020, I completed my master's degree in Embedded Systems.
+- 👀 I’m interested in cool C/C++ projects
+- 🌱 I’m currently learning docker and other containerization stuff
